@@ -1,3 +1,6 @@
+# Sample solution for Project Euler Problem 2
+# https://projecteuler.net/problem=2
+
 fib_1   = 1
 fib_2   = 2
 f       = fib_1 + fib_2
